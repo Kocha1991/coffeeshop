@@ -1,0 +1,12 @@
+.imgGoods {
+    width: 272px;
+    height: 355px;
+}
+
+.aboutOurGoods {
+    display: flex;
+    width: 850px;
+    margin: 0 auto;
+    padding: 50px;
+    gap: 84px;
+}

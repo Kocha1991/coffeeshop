@@ -1,0 +1,16 @@
+.about {
+    height: 455px;
+    padding: 70px;
+    display: flex;
+    justify-content: center; 
+    gap:42px;  
+}
+
+.imgPoster {
+    width: 392px;
+    height: 355px;
+}
+
+.descrAboutIt {
+    width: 500px;
+}

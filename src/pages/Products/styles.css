@@ -1,0 +1,12 @@
+.main {
+  margin: 0 auto;
+  box-shadow:  4px 10px 10px rgba(0, 0, 0, 0.25);
+}
+
+.mainHeader {
+  margin-top: 70px;
+}
+
+.containerDiscriptionProducts {
+  padding: 40px;
+}

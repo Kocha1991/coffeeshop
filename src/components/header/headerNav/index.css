@@ -1,0 +1,30 @@
+.container {
+  display: flex;
+  align-items: flex-end;
+}
+
+.nav-menu {
+  display: flex;
+  font-family: "Merienda";
+  gap: 40px;
+  color: #ffffff;
+  list-style-type: none;
+  margin: 0px;
+  padding: 0px;
+}
+
+.link {
+  text-decoration: none;
+  color: #fff;
+  transition: all 0.25s;
+  opacity: 0.6;
+}
+.link:hover {
+  color: #fff;
+  transform: scale(1.1);
+  opacity: 1;
+}
+
+.linkColored {
+  color: #000;
+}

@@ -1,0 +1,23 @@
+@font-face {
+  font-family: Merienda;
+  src: url("./assets/fonts/Merienda-Regular.ttf");
+}
+
+body {
+  margin: 0;
+  font-family: "Merienda";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+button:hover {
+  border-radius: 8px;
+  transition: 1s;
+  background-color:rgba(187, 138, 108, 0.695);
+  opacity: 0.8px;
+}
