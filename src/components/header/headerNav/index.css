@@ -1,6 +1,8 @@
 .container {
   display: flex;
   align-items: flex-end;
+  margin: 0px 60px;
+
 }
 
 .nav-menu {
